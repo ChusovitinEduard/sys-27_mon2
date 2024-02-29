@@ -44,3 +44,14 @@
 ![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/3.PNG)
 
 
+
+Задание 4
+Создайте свой кастомный дашборд.
+
+Процесс выполнения
+Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+В разделе Dashboards создайте новый дашборд
+Разместите на нём несколько графиков на ваше усмотрение.
+### Ответ:
+![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/4.PNG)
+
