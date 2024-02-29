@@ -11,8 +11,9 @@
 В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
 Создайте Item который будет собирать информацию об загрузке CPU в процентах
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
+
 ### Ответ:
-![alt text](https://github.com/ChusovitinEduard/sys27_mon2/blob/main/1.PNG)
+![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/1.PNG)
 
 
 ---
