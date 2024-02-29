@@ -54,4 +54,6 @@
 Разместите на нём несколько графиков на ваше усмотрение.
 ### Ответ:
 ![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/4.PNG)
+![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/5.PNG)
+
 
