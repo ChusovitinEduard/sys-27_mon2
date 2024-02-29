@@ -18,41 +18,29 @@
 
 ---
 
-### Задание 2 
+### Задание 2
+Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 
-Установите Zabbix Agent на два хоста.
+Процесс выполнения
+Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server
+Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов
+Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera
+Прикрепите за каждым хостом шаблон Linux by Zabbix Agent
+Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
-#### Процесс выполнения
-1. Выполняя ДЗ, сверяйтесь с процессом отражённым в записи лекции.
-2. Установите Zabbix Agent на 2 вирт.машины, одной из них может быть ваш Zabbix Server.
-3. Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов.
-4. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
-5. Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
- 
+### Задание 3
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
+Процесс выполнения
+Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон
+Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
+Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
+
+
 ### Ответ:
-![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/hosts.PNG)
-![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab1_mon.PNG)
-![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab2_mon.PNG)
-![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zabb_log.PNG)
-
-```git clone https://github.com/ChusovitinEduard/sys27-mon```
-
-```cd sys27-mon```
-
-```vi README.md```
-
-```git add README.md```
-
-```git commit -m "task1 git commands"```
-
-```git push origin```
-
-```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/hosts.PNG)```
-
-```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab1_mon.PNG)```
-
-```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab2_mon.PNG)```
-
-```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zabb_log.PNG)```
+![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/2.PNG)
+![alt text](https://github.com/ChusovitinEduard/sys-27_mon2/blob/main/3.PNG)
 
 
