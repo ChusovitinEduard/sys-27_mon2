@@ -12,7 +12,7 @@
 Создайте Item который будет собирать информацию об загрузке CPU в процентах
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
 ### Ответ:
-![alt text](https://github.com/ChusovitinEduard/sys27-mon2/blob/main/1.PNG)
+![alt text](https://github.com/ChusovitinEduard/sys27_mon2/blob/main/1.PNG)
 
 
 ---
